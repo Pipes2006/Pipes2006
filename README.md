@@ -1,9 +1,9 @@
 # ¡Hola! 👋 Soy Andres Merchan
 
-💻 Estudiante de Ingeniería de Sistemas  
-🚀 Apasionado por la programación y la tecnología  
-📚 Actualmente aprendiendo SQL, Java y Linux  
+💻 Estudiante de Ingeniería de Sistemas  (6to semestre)
+🚀 Apasionado por el desarollo y las bases de datos.
+📚 Actualmente aprendiendo SQL, Java y JavaScript
 
 
-🌎 **Conéctate conmigo:**  
-[![LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)]
+🌎 **Contactame:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/andrés-merchan-245010351)
