@@ -6,4 +6,4 @@
 
 
 🌎 **Contactame:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/andrés-merchan-245010351)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/andrés-merchan-245010351/)
